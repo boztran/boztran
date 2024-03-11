@@ -8,4 +8,4 @@
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman"></a></p>
 
 ## Contact
-<p align="left"><a href="https://www.facebook.com/boztran" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boz" height="30" width="40""></a></p>
+<p align="left"><a href="https://www.facebook.com/boztran" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boz" height="50" width="60""></a></p>
