@@ -2,13 +2,16 @@
 <h3 align="center">A Full-Stack Developer From VietNam</h3>
 
 ## My Skills Languages
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,python"></a></p>
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=html,css,javascript,php,py"></a></p>
 
 ## Software
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman"></a></p>
 
 ## Framework
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel"></a></p>
+
+## Database Management System
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=mysql,apache,nginx"></a></p>
 
 ## Security
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=cloudflare"></a></p>
