@@ -5,7 +5,7 @@
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=html,css,javascript,php,py"></a></p>
 
 ## Software
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman"></a></p>
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman,docker"></a></p>
 
 ## Framework
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel"></a></p>
