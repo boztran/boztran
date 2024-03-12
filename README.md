@@ -5,7 +5,7 @@
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=html,css,javascript,php,mysql,python,laravel"></a></p>
 
 ## Software
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman, boostrap"></a></p>
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=vscode,replit,git,postman,bootstrap"></a></p>
 
 ## Contact
 <p align="left"><a href="https://www.facebook.com/boztran"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="boz" height="45" width="55"></a></p>
