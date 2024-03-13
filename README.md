@@ -13,14 +13,11 @@
 ## Database Management System
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=mysql,sqlite,dynamodb"></a></p>
 
-## Server
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=maven,nginx"></a></p>
+## Server & System
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=maven,nginx,windows,linux,kali"></a></p>
 
 ## Security
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=cloudflare"></a></p>
 
 ## Forum
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=github,stackoverflow"></a></p>
-
-## System
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=windows,linux,kali"></a></p>
