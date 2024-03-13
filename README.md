@@ -11,7 +11,7 @@
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=bootstrap,jquery,laravel"></a></p>
 
 ## Database Management System
-<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=mysql,sqlite,dynamodb,mongodb"></a></p>
+<p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=mysql,sqlite,dynamodb"></a></p>
 
 ## Server
 <p align="left"><a href="https://github.com/boztran"><img src="https://skillicons.dev/icons?i=maven,nginx"></a></p>
